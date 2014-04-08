@@ -1,0 +1,144 @@
+18:43 -!- pokerbot changed the topic of ##poker to: NLHE 5/10 | Hand 1 [  ] [  ] [  ] [  ] [  ] | 5/9 players ("sit" to play)
+18:43  * pokerbot >> sixthgear [SB] posts small blind (5).
+18:43  * pokerbot >> mjard [BB] posts big blind (10).
+18:44  * pokerbot >> dealing [A♣] [A♠] to sixthgear [SB] ($995)
+18:44  * pokerbot >> dealing [..] [..] to mjard [BB] ($990)
+18:44  * pokerbot >> dealing [..] [..] to synx [UG] ($1000)
+18:44  * pokerbot >> dealing [..] [..] to thoughtpolice [CO] ($1000)
+18:44  * pokerbot >> dealing [..] [..] to BaconJuice [D] ($1000)
+18:45  * pokerbot >> -----------------------------------------------------------
+18:45  * pokerbot >> POT $15. Action on synx [UG] ($1000) +10 to call.
+18:45 <+synx> call
+18:45  * pokerbot >> synx [UG] calls for 10.
+18:45  * pokerbot >> POT $25. Action on thoughtpolice [CO] ($1000) +10 to call.
+18:46 <+thoughtpolice> call
+18:46  * pokerbot >> thoughtpolice [CO] calls for 10.
+18:46  * pokerbot >> POT $35. Action on BaconJuice [D] ($1000) +10 to call.
+18:46 <+BaconJuice> fold
+18:46  * pokerbot >> BaconJuice [D] folds. 
+18:47  * pokerbot >> POT $35. Action on sixthgear [SB] ($995) +5 to call.
+18:47 <+sixthgear> call
+18:47  * pokerbot >> sixthgear [SB] calls for 5. 
+18:47  * pokerbot >> POT $40. Action on mjard [BB] ($990) check to call.
+18:47 <+mjard> check
+18:47  * pokerbot >> mjard [BB] checks. 
+18:48  * pokerbot >> -----------------------------------------------------------
+18:48  * pokerbot >> [A♣] [A♠] sixthgear [SB] ($990)
+18:48  * pokerbot >> [..] [..] mjard [BB] ($990)
+18:48  * pokerbot >> [..] [..] synx [UG] ($990)
+18:48  * pokerbot >> [..] [..] thoughtpolice [CO] ($990)
+18:48  * pokerbot >>
+18:48  * pokerbot >> FLOP [A♡] [7♠] [5♢] [  ] [  ]
+18:48  * pokerbot >>
+18:48 -!- pokerbot changed the topic of ##poker to: NLHE 5/10 | Hand 1 [A♡] [7♠] [5♢] [  ] [  ] | 5/9 players ("sit" to play)
+18:48  * pokerbot >> -----------------------------------------------------------
+18:48  * pokerbot >> POT $40. Action on sixthgear [SB] ($990).
+18:48 <+sixthgear> raise 30
+18:49  * pokerbot >> sixthgear [SB] raises to 30. 
+18:49  * pokerbot >> POT $70. Action on mjard [BB] ($990) +30 to call.
+18:49 <+mjard> raise 60
+18:49  * pokerbot >> mjard [BB] raises to 60.
+18:49  * pokerbot >> POT $130. Action on synx [UG] ($990) +60 to call.
+18:49 <+synx> shit. wtf mjard.
+18:49 <+synx> fold
+18:49  * pokerbot >> synx [UG] folds.
+18:49  * pokerbot >> POT $130. Action on thoughtpolice ($990) +60 to call.
+18:49 <+thoughtpolice> call
+18:49  * pokerbot >> thoughtpolice [CO] calls for 60.
+18:49  * pokerbot >> POT $180. Action on sixthgear [SB] ($960) +30 to call.
+18:49 <+sixthgear> call
+18:49  * pokerbot >> sixthgear [SB] calls for 30. 
+18:49  * pokerbot >> -----------------------------------------------------------
+18:50  * pokerbot >> [A♣] [A♠] sixthgear [SB] ($930)
+18:50  * pokerbot >> [..] [..] mjard [BB] ($930)
+18:50  * pokerbot >> [..] [..] thoughtpolice [CO] ($930)
+18:50  * pokerbot >>
+18:50  * pokerbot >> TURN [A♡] [7♠] [5♢] [T♠] [  ]
+18:50  * pokerbot >>
+18:50 -!- pokerbot changed the topic of ##poker to: NLHE 5/10 | Hand 1 [A♡] [7♠] [5♢] [T♠] [  ] | 5/9 players ("sit" to play)
+18:50  * pokerbot >> -----------------------------------------------------------
+18:50  * pokerbot >> POT $220. Action on sixthgear [SB] ($930).
+18:50 <+sixthgear> check
+18:50  * pokerbot >> sixthgear [SB] checks.
+18:50  * pokerbot >> POT $220. Action on mjard [BB] ($930).
+18:50 <+mjard> raise 200
+18:50  * pokerbot >> mjard [BB] raises to 200.
+18:50  * pokerbot >> POT $420. Action on thoughtpolice [CO] ($930) +200 to call.
+18:51 <+thoughtpolice> fold
+18:51  * pokerbot >> thoughtpolice [CO] folds.
+18:51  * pokerbot >> POT $420. Action on sixthgear [SB] ($930) +200 to call.
+18:51 <+sixthgear> raise 400
+18:51  * pokerbot >> POT $820. Action on mjard [BB] ($730) +200 to call.
+18:51 <+mjard> call
+18:51  * pokerbot >> mjard [SB] calls for 200. 
+18:51  * pokerbot >> -----------------------------------------------------------
+18:51  * pokerbot >> [A♣] [A♠] sixthgear [SB] ($530)
+18:51  * pokerbot >> [..] [..] mjard [BB] ($530)
+18:51  * pokerbot >>
+18:51  * pokerbot >> RIVER [A♡] [7♠] [5♢] [T♠] [9♢]
+18:51  * pokerbot >>
+18:51 -!- pokerbot changed the topic of ##poker to: NLHE 5/10 | Hand 1 [A♡] [7♠] [5♢] [T♠] [9♢] | 5/9 players ("sit" to play)
+18:51  * pokerbot >> -----------------------------------------------------------
+18:51  * pokerbot >> POT $1020. Action on sixthgear [SB] ($530).
+18:52 <+sixthgear> check
+18:52  * pokerbot >> sixthgear [SB] checks.
+18:52  * pokerbot >> POT $1020. Action on mjard [BB] ($530).
+18:52 <+mjard> raise 530
+18:52  * pokerbot >> mjard [BB] raises all-in to 530.
+18:52  * pokerbot >> POT $1550. Action on sixthgear [SB] ($530) +530 to call.
+18:52 <+sixthgear> call
+18:52  * pokerbot >> sixthgear [SB] calls for 530.
+18:52  * pokerbot >> -----------------------------------------------------------
+18:52  * pokerbot >> SHOWDOWN [A♡] [7♠] [5♢] [T♠] [9♢] -- POT $2080 -- sixthgear [SB] and mjard [BB] at-risk.
+18:52  * pokerbot >> show [A♣] [A♠] "three-of-a-kind" for sixthgear [SB]
+18:52  * pokerbot >> show [6♠] [8♠] "straight" for mjard [BB] 
+18:52  * pokerbot >>
+18:52  * pokerbot >> WINNER [6♠] [7♠] [8♠] [9♢] [T♠] mjard [BB] ($2080)
+18:52  * pokerbot >> sixthgear [SB] has busted.
+18:52  * pokerbot >> NEXT HAND starts in 30 seconds.
+18:52  * pokerbot >> -----------------------------------------------------------
+18:53 <+sixthgear> fuck.
+
+COMMANDS:
+sit         request a seat at the table. Check privmsg for response and private OTP.
+stand       relinquish your seat at the table.
+
+play commands:
+call        bet the currently raised stakes.
+raise [n]   raise the stakes to [n].
+check       bet nothing, equivalent to "raise 0".
+fold        fold your hand.
+
+showdown commands:
+show        show both your hole-cards at the showdown. (see rules)
+muck        muck both your hole-cards at the showdown. (see rules)
+muck [n]    muck both your hole-cards at the showdown, but reveal the nth card. (see rules)
+
+SHOWDOWN RULES:
+
+During the showdown, each players cards are evaluated in turn. If a player's
+hand is better than (or tied with) the best hand already shown, it will be
+shown automatically. If the player holds a losing hand, they may either muck 
+their cards (show none), show their hand (show both), or just show a single
+card. If a player does not request to muck their hand within 5 seconds, it will
+be automatically shown.
+
+CHANNEL MODES:
+
+display:
+-c allow color
+
+moderation:
++m moderated so that spectators may not comment
++z to intercept sit commands by spectators
++r to allow us to force users to be registered with services (prevents spoofing)
++t Ops topic.
++v <user> to active players
+
+noise control:
++C Block CTCP.
++n no external messages.
++p Paranoid/Private. (no knocks)
++s Secret channel.
+
++Cmnprstz
