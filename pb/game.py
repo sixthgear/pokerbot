@@ -53,6 +53,12 @@ class Game(object):
 
     def __init__(self, players=5):
 
+        self.deck = None
+        self.board = None
+        self.pot = 0
+        self.current_bet = 0
+        self.action = 0
+
         self.hand_num = 0
         self.sb = 15
         self.bb = 30
@@ -182,10 +188,23 @@ class Game(object):
             for r in self.rounds:
                 # betting cycle
                 if r[0] != 'PREFLOP':
+
+                    # perform the draw
                     self.draw(r)
-                    self.out(txt.topic % (self.sb, self.bb, self.hand_num, poker.hand_output(self.board, 5), len(self.players), self.max_players))
+
+                    # change topic every round
+                    self.out(txt.topic % (
+                        self.sb,
+                        self.bb,
+                        self.hand_num,
+                        poker.hand_output(self.board, 5),
+                        len(self.players),
+                        self.max_players)
+                    )
 
                 self.out(txt.rule)
+
+                # loop through players
                 for p in self.players:
                     self.out(txt.action_b % (self.pot, p.name, p.stack, self.current_bet - p.current_bet))
 
@@ -195,6 +214,7 @@ class Game(object):
                         cmd = yield
                         if self.valid(p, cmd): break
 
+                    # todo replace this with logic for different commands
                     bet = self.current_bet - p.current_bet
                     self.bet(p, bet)
                     self.out(txt.calls % (p.name, bet))
